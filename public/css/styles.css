@@ -35,6 +35,12 @@ h1 {
     margin-bottom: 10px;
 }
 
+a {
+    color: #888888;
+    margin-right: 16px;
+    text-decoration: none;
+}
+
 header a {
     color: #888888;
     margin-right: 16px;
